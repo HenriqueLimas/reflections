@@ -3,3 +3,4 @@ How is the staging area different from working directory and the repository? Wha
 How can you use the staging area to make sure you have one commit per logical change?
 What are some situations when branches would be helpful in keeping your history organize? How would branches help?
 How do the diagrams help you visualize the branch structure?
+What is the result of mergin two branches together? Why do we represent int the diagram the way we do?
